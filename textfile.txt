@@ -1,1 +1,3 @@
 My Text file for git
+
+New paragraph
